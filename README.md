@@ -5,6 +5,8 @@ Prompt-Based AI Multimedia Generator is an AI-powered educational multimedia gen
 
 [Download Full Project ZIP](https://drive.google.com/file/d/1x_7icJqVKhBUuxNdRrfa2jTWbBJn-27k/view?usp=sharing)
 
+
+
 # 🎯 Prompt-Based AI Multimedia Generator
 
 An AI-powered multimedia generation system developed during a **4-Month Internship in Artificial Intelligence with Cloud Computing at SupraMentr Technologies Pvt Ltd**.
