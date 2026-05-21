@@ -1,6 +1,9 @@
 # Prompt-based-AI-Multimedia-Generator
 Prompt-Based AI Multimedia Generator is an AI-powered educational multimedia generation system specially designed for kids and young learners. The application transforms simple text prompts into engaging multimedia content such as stories, AI-generated images, audio narration, and videos, making learning more interactive and enjoyable for children.
 
+# Full Project Download
+
+[Download Full Project ZIP](https://drive.google.com/file/d/1x_7icJqVKhBUuxNdRrfa2jTWbBJn-27k/view?usp=sharing)
 
 # 🎯 Prompt-Based AI Multimedia Generator
 
